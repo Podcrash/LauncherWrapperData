@@ -1,14 +1,14 @@
 version: 0.1.0
 files:
   - url: podcrashlauncher-Setup-0.1.0.exe
-    sha512: Cm6FDr++YcKygaBZlBByO0E12b/0NI8FBa0vn03tHAaWLqTUVhwyle7vg+yE1uMtT3NZ1mpvpZmlVTjrsdCmmg==
+    sha512: awtocSFJKtMF9A+jbN4XTsc4PrBUmzqgtDNYjNUc/V05EWc2fShYoa34NNhg91kxub+5aDrzQyoZMSAZtN5fqw==
 path: podcrashlauncher-Setup-0.1.0.exe
-sha512: Cm6FDr++YcKygaBZlBByO0E12b/0NI8FBa0vn03tHAaWLqTUVhwyle7vg+yE1uMtT3NZ1mpvpZmlVTjrsdCmmg==
+sha512: awtocSFJKtMF9A+jbN4XTsc4PrBUmzqgtDNYjNUc/V05EWc2fShYoa34NNhg91kxub+5aDrzQyoZMSAZtN5fqw==
 packages:
   x64:
-    size: 57553352
-    sha512: x3zvG3TOiAo0OdGKWnovv+sqVk0OASc+mPCWSkGcyHw+sg/MRG40mLU8akLEHSqvfOKK7T9obCinpwG3ua4+Xw==
-    blockMapSize: 60790
+    size: 57553529
+    sha512: C6vjX6Sngu+7K8IHJipYtlAHbTVw4MOcWmfSlgBOrtcCnxux3E41kmrE8IA/hbmhP5a3w6xL4uySjHfiIpjukw==
+    blockMapSize: 60708
     path: podcrashlauncher-0.1.0-x64.nsis.7z
     file: podcrashlauncher-0.1.0-x64.nsis.7z
-releaseDate: '2021-03-27T22:52:45.890Z'
+releaseDate: '2021-03-27T22:58:04.124Z'
